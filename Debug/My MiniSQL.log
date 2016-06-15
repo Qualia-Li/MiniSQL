@@ -1,0 +1,98 @@
+﻿生成启动时间为 14/11/23 16:04:39。
+     1>项目“C:\Users\SVD132190\Documents\Visual Studio 2013\Projects\My MiniSQL\My MiniSQL\My MiniSQL.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\My MiniSQL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\My MiniSQL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt api.cpp getTime.cpp Interpret.cpp MiniSQL.cpp "My MiniSQL.cpp" "My MiniSQLDlg.cpp"
+         My MiniSQLDlg.cpp
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(199): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(209): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(213): warning C4018: “>=”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(220): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(224): warning C4018: “>=”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(244): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(30): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(36): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(97): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(98): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(276): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(278): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(279): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(310): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(313): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\indexmanager.h(112): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\indexmanager.h(238): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\my minisqldlg.cpp(262): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+         My MiniSQL.cpp
+         MiniSQL.cpp
+         Interpret.cpp
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(199): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(209): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(213): warning C4018: “>=”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(220): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(224): warning C4018: “>=”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(244): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(30): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(36): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(97): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(98): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(276): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(278): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(279): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(310): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(313): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\interpret.cpp(507): warning C4018: “>”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\interpret.cpp(541): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\interpret.cpp(559): warning C4018: “<”: 有符号/无符号不匹配
+         getTime.cpp
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\gettime.cpp(22): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+         api.cpp
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(199): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(209): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(213): warning C4018: “>=”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(220): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(224): warning C4018: “>=”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\catalogmanager.h(244): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(30): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(36): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(97): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(98): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(276): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(278): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(279): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(310): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\recordmanager.h(313): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\indexmanager.h(112): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\indexmanager.h(238): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(26): warning C4101: “i”: 未引用的局部变量
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(28): warning C4101: “k”: 未引用的局部变量
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(27): warning C4101: “j”: 未引用的局部变量
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(194): warning C4101: “temp”: 未引用的局部变量
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(360): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(364): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(389): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(401): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(415): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(428): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(430): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(436): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\svd132190\documents\visual studio 2013\projects\my minisql\my minisql\api.cpp(450): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\My MiniSQL.res" "My MiniSQL.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SVD132190\Documents\Visual Studio 2013\Projects\My MiniSQL\Debug\My MiniSQL.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\SVD132190\Documents\Visual Studio 2013\Projects\My MiniSQL\Debug\My MiniSQL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SVD132190\Documents\Visual Studio 2013\Projects\My MiniSQL\Debug\My MiniSQL.lib" /MACHINE:X86 "Debug\My MiniSQL.res"
+         Debug\api.obj
+         Debug\getTime.obj
+         Debug\Interpret.obj
+         Debug\MiniSQL.obj
+         "Debug\My MiniSQL.obj"
+         "Debug\My MiniSQLDlg.obj"
+         Debug\stdafx.obj
+         My MiniSQL.vcxproj -> C:\Users\SVD132190\Documents\Visual Studio 2013\Projects\My MiniSQL\Debug\My MiniSQL.exe
+     1>已完成生成项目“C:\Users\SVD132190\Documents\Visual Studio 2013\Projects\My MiniSQL\My MiniSQL\My MiniSQL.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:16.03
